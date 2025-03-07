@@ -1,7 +1,11 @@
+*
+!*.*
+!*/
 !*.cpp
 !*.c
 !*.h
 !Makefile
+.DS_Store
 
 # Prerequisites
 *.d
