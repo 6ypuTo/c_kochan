@@ -6,6 +6,8 @@
 !*.h
 !Makefile
 .DS_Store
+/Book
+
 
 # Prerequisites
 *.d
@@ -31,6 +33,7 @@
 *.a
 *.la
 *.lo
+*.pdf
 
 # Shared objects (inc. Windows DLLs)
 *.dll
