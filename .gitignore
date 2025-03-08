@@ -38,6 +38,7 @@
 *.so.*
 *.dylib
 *.xcodeproj
+.DS_Store
 
 # Executables
 *.exe
