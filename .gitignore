@@ -5,9 +5,6 @@
 !*.c
 !*.h
 !Makefile
-.DS_Store
-/Book
-
 
 # Prerequisites
 *.d
@@ -40,6 +37,7 @@
 *.so
 *.so.*
 *.dylib
+*.xcodeproj
 
 # Executables
 *.exe
